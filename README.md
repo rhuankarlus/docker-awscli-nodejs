@@ -1,5 +1,3 @@
-<img src="https://images-na.ssl-images-amazon.com/images/I/71pBIxx%2BV6L._AC_SL1500_.jpg" width="150" />
-
 # Docker Image with AWS-CLI and NodeJS
 
 The entrypoint of this image will put you on `node` console. So you can call build or any other node operation directly when running it.
